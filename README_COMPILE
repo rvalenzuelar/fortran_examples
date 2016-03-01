@@ -1,0 +1,3 @@
+EXAMPLE OF FORTRAN COMPILING
+
+$ gfortran -o executable source1.f90 source2.f90
